@@ -1,0 +1,5 @@
+''ip" choosebiome.aternos.me
+
+''port" 19374
+
+''name" biome
